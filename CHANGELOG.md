@@ -1,3 +1,7 @@
+# 4.2.0
+
+* Remove extlib dependency which breaks Chef's shell callouts.
+
 # 4.1.0
 
 * [#92](https://github.com/RiotGames/nexus_cli/pull/92) Added a new task for gettting an artifact's download URL

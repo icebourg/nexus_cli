@@ -1,4 +1,4 @@
-require 'extlib'
+
 require 'chozo'
 
 module NexusCli
